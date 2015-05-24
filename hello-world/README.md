@@ -25,6 +25,5 @@ Build and run the application using `xmake` and `xrun`. WIth the startKIT plugge
 xmake && xrun --io bin/hello_world.xe
 ```
 
-The `--io` flag causes xrun to print applications `stdout` and `stderr` streams
-to the console. If you see a nice set of "Hello ..." messages in your console
-again, then it worked!
+The `--io` flag causes xrun to print the applications `stdout` and `stderr` streams
+to the console. If you see a nice set of "Hello ..." messages in your console, then it worked!
