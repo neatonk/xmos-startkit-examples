@@ -1,6 +1,7 @@
 # xmos-startkit: hello_world
 
-A simple variation on the classic example, showing the use of `par` in XC.
+A variation on the classic example, using of channels, timers, and `par` to
+illustrate multi-core programming in XC.
 
 ## Build & Run
 
